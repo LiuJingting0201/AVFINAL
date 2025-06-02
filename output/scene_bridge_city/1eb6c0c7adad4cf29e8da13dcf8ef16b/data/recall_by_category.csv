@@ -1,0 +1,12 @@
+category,lidar_recall,radar_recall,fusion_recall,num_boxes
+animal,0.0,0.0,0.0,1.0
+human.pedestrian.adult,1.0,0.6666666666666666,1.0,6.0
+human.pedestrian.child,1.0,1.0,1.0,2.0
+human.pedestrian.stroller,1.0,1.0,1.0,1.0
+static_object.traffic_sign,1.0,0.34210526315789475,1.0,38.0
+vehicle.bicycle,1.0,1.0,1.0,1.0
+vehicle.car,0.7837837837837838,0.2702702702702703,0.8378378378378378,37.0
+vehicle.ego_trailer,1.0,1.0,1.0,1.0
+vehicle.other,1.0,1.0,1.0,1.0
+vehicle.trailer,1.0,1.0,1.0,3.0
+vehicle.truck,0.6666666666666666,0.6666666666666666,0.6666666666666666,3.0
